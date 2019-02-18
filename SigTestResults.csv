@@ -1,0 +1,14 @@
+metric,model,mean diff,P(T test),P(wilcoxon test),P(ks test)
+ROUGE-2,Baseline & Fusion,0,0,0,0
+ROUGE-2,Baseline & Ordering,0,0,0,0
+ROUGE-2,Fusion & Ordering,0,0,0,0
+ROUGE-2,Baseline & Ordering+Fusion,0,0,0,0
+ROUGE-2,Ordering & Ordering+Fusion,0,0,0,0
+ROUGE-2,Fusion & Ordering+Fusion,0,0,0,0
+ROUGE-SU4,Baseline & Fusion,0,0,0,0
+ROUGE-SU4,Baseline & Ordering,0,0,0,0
+ROUGE-SU4,Fusion & Ordering,0,0,0,0
+ROUGE-SU4,Baseline & Ordering+Fusion,0,0,0,0
+ROUGE-SU4,Ordering & Ordering+Fusion,0,0,0,0
+ROUGE-SU4,Fusion & Ordering+Fusion,0,0,0,0
+ROUGE-SU4,0,0,0,0,0
